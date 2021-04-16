@@ -1,7 +1,5 @@
 # APIs-Working-Group
 
-## proposals
-
 Proposals for spec. or tooling solutions
 
 Please use:
